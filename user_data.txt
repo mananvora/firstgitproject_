@@ -1,2 +1,4 @@
 This file has a code to extract the userdata
 process the userdata now 
+
+creating an avatar for a user 
